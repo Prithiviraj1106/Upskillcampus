@@ -1,0 +1,31 @@
+MOVIE RECOMMENDATION BY SIMILARITY
+
+1. Project Overview
+A beginner-friendly content-based recommendation system that recommends movies similar to a selected movie.
+
+2. Objective
+Convert movie metadata into numerical features and use similarity to rank related movies.
+
+3. Dataset
+20 movies with movie ID, title, genres, and description.
+
+4. Method
+Genres and descriptions are combined into a content field. TF-IDF converts the text to vectors. Cosine similarity measures similarity between movie vectors.
+
+5. Workflow
+Dataset → content preparation → TF-IDF → vectors → cosine similarity → ranking → top-N recommendations.
+
+6. Recommendation Logic
+For the selected movie, similarity with every other movie is calculated. The selected movie is excluded, the remaining movies are ranked, and the highest-scoring movies are returned.
+
+7. Interface
+Streamlit lets the user select a movie and number of recommendations.
+
+8. Limitations
+Small educational dataset; no user ratings, watch history, collaborative filtering, or personalization.
+
+9. Future Improvements
+Use a larger dataset; add ratings and popularity; add user profiles; compare collaborative filtering; add posters and metadata; add search and recommendation explanations; deploy online.
+
+10. Learning Outcomes
+Practical experience with pandas, scikit-learn, TF-IDF, cosine similarity, ranking, and Streamlit.
