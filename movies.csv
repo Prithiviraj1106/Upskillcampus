@@ -1,0 +1,21 @@
+movie_id,title,genres,description
+1,Inception,Sci-Fi|Thriller|Action,A thief enters dreams to steal and plant ideas.
+2,Interstellar,Sci-Fi|Drama|Adventure,Explorers travel through space to find a future home for humanity.
+3,The Matrix,Sci-Fi|Action|Thriller,A hacker discovers a hidden reality controlled by machines.
+4,Avengers: Endgame,Action|Adventure|Sci-Fi,Heroes attempt to reverse a devastating event and save the universe.
+5,Iron Man,Action|Adventure|Sci-Fi,A genius inventor builds a powerful armored suit.
+6,The Dark Knight,Action|Crime|Drama,A hero faces a dangerous criminal mastermind in Gotham.
+7,John Wick,Action|Thriller|Crime,A retired assassin returns after a personal loss.
+8,Titanic,Romance|Drama,Two people from different social backgrounds fall in love on a famous ship.
+9,The Notebook,Romance|Drama,A couple struggles to preserve their love through difficult circumstances.
+10,La La Land,Romance|Drama|Music,An aspiring actress and jazz musician pursue their dreams and relationship.
+11,Toy Story,Animation|Comedy|Adventure,Toys come alive and form an unlikely friendship.
+12,Finding Nemo,Animation|Adventure|Comedy,A father searches across the ocean for his missing son.
+13,The Lion King,Animation|Adventure|Drama,A young lion learns to accept his responsibility as king.
+14,Harry Potter and the Sorcerer's Stone,Fantasy|Adventure|Family,A young wizard begins his magical education and faces danger.
+15,The Lord of the Rings,Fantasy|Adventure|Drama,A group travels across a dangerous land to destroy a powerful ring.
+16,Jurassic Park,Adventure|Sci-Fi|Thriller,A theme park filled with cloned dinosaurs becomes dangerous.
+17,The Martian,Sci-Fi|Drama|Adventure,An astronaut stranded on Mars fights to survive and return home.
+18,Gladiator,Action|Drama|Adventure,A former Roman general seeks justice after betrayal.
+19,The Hangover,Comedy,Friends deal with the consequences of an unforgettable trip.
+20,Home Alone,Comedy|Family,A child protects his home from burglars while his family is away.
